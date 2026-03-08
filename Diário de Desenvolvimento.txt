@@ -1,0 +1,15 @@
+[ok 21:41 07/03/2026] Escolher microprocessador.
+	Arduino Uno
+
+[ok 23:20 07/03/2026] Baixar uma case pronta.
+	https://www.thingiverse.com/thing:1797954
+
+[ok 23:37 07/03/2026] Vídeo de como editar stl no fusion.
+	https://www.youtube.com/watch?v=SxQYxmdMYiA
+
+[ok 23:46 07/03/2026] Sensor de temperatura LM35.
+	https://www.youtube.com/watch?v=3FHuHa9uks8
+
+[ok 12:29 08/03/2026] Esquema Buzzer com Transistor. Importante para não forçar a porta do Arduino que fornece até 40 mA. 
+O Buzzer pode exigir mais corrente.
+	https://www.adeept.com/learn/tutorial-6.html
