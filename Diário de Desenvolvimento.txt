@@ -16,3 +16,4 @@ O Buzzer pode exigir mais corrente.
 
 [ok 16:42 08/03/2026] Elaborar esquema com a protoboard.
 	https://github.com/thiagocastro1721/Unlocked_Door_Alarm_Using_Arduino_UNO/blob/main/Esquema_com_Protoboard.jpeg
+	Obs: O resistor usado foi o de 10 kΩ.
